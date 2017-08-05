@@ -1,0 +1,19 @@
+{
+    "name": "codeception/graphql",
+    "description": "GraphQL extension for Codeception",
+    "keywords": ["codeception", "graphql"],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1",
+        "codeception/codeception": "^2.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Codeception": "src"
+        }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
