@@ -1,5 +1,5 @@
 {
-    "name": "codeception/graphql",
+    "name": "zestic/codeception-graphql",
     "description": "GraphQL extension for Codeception",
     "keywords": ["codeception", "graphql"],
     "minimum-stability": "stable",
