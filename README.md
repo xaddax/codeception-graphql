@@ -4,6 +4,11 @@
 This requires a running server, you can use [Codeception PhpBuiltInServer](https://github.com/tiger-seo/PhpBuiltinServer)
 if needed.
 
+#### Installation
+```bash
+composer require zestic/codeception-graphql --dev
+```
+
 #### To configure
 
 In your acceptance.suite.yml file
