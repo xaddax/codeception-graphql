@@ -6,7 +6,7 @@ if needed.
 
 #### Installation
 ```bash
-composer require zestic/codeception-graphql --dev
+composer require xaddax/codeception-graphql --dev
 ```
 
 #### To configure
