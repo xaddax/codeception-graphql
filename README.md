@@ -1,3 +1,6 @@
+#No longer supported, use zestic/codeception-graphql instead
+
+
 # Codeception GraphQL
 #### A codeception extension for calling GraphQL endpoints
 
